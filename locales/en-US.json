@@ -1,0 +1,42 @@
+{
+    "hero_title": "Architecting the next generation of web applications",
+    "hero_description": "I'm Jahid, a full stack software engineer with a passion for building functional web applications tailored to your specific requirements.",
+    "hero_button_primary": "Got an Idea? Let's Talk",
+    "hero_button_secondary": "See My Work",
+    "its_free": "It's free",
+    "explore": "Explore",
+    "youtube": "Youtube",
+    "video": "Video",
+    "videos": "Videos",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send",
+    "submit": "Submit",
+    "contact": "Contact",
+    "contact_success_message": "Your message has been sent successfully.",
+    "error_404": "Oops! Page not found.",
+    "error_404_button": "Go back home",
+    "navigation": {
+        "blog": "Blog",
+        "videos": "Videos",
+        "services": "Services",
+        "about": "About",
+        "contact": "Contact",
+        "projects": "Projects"
+    },
+    "validation_error": {
+        "required": "The {field} field is required.",
+        "email": "The {field} must be a valid email address.",
+        "min": {
+            "string": "The {field} must be at least {min} characters."
+        },
+        "max": {
+            "string": "The {field} may not be greater than {max} characters."
+        }
+    },
+    "redirecting_to": "Redirecting to {url}",
+    "links": "Links",
+    "latest_youtube_video": "Latest Youtube Video",
+    "upcoming": "Upcoming"
+}
